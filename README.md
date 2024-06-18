@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @N0tFr4
 - 👀 I’m interested in front-end
 - 🌱 I’m currently learning Java back-end
-- :fire: IT security enthusiast
+- :fire: Cybersecurity enthusiast
 - 📫 How to reach me: francescoacquafredda479@gmail.com
 
 <!---
